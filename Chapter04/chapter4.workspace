@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="factorial_iteration_do_while/factorial_iteration_do_while.cbp" />
+		<Project filename="factorial_iteration_for/factorial_iteration_for.cbp" />
+		<Project filename="factorial_recursion/factorial_recursion.cbp" />
+		<Project filename="fibonacci_iteration/fibonacci_iteration.cbp" />
+		<Project filename="fibonacci_recursion/fibonacci_recursion.cbp" />
+		<Project filename="tail_recursion/tail_recursion.cbp" />
+		<Project filename="tail_recursion_goto/tail_recursion_goto.cbp" />
+		<Project filename="factorial_recursion_tail/factorial_recursion_tail.cbp" />
+		<Project filename="exponential_iteration/exponential_iteration.cbp" />
+		<Project filename="exponential_recursion/exponential_recursion.cbp" />
+		<Project filename="permutation/permutation.cbp" />
+		<Project filename="labyrinth/labyrinth.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

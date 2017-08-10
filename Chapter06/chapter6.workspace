@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="macro/macro.cbp" />
+		<Project filename="macroswap/macroswap.cbp" />
+		<Project filename="types/types.cbp" />
+		<Project filename="selectingtype/selectingtype.cbp" />
+		<Project filename="condition/condition.cbp" />
+		<Project filename="conditionmeta/conditionmeta.cbp" />
+		<Project filename="switch/switch.cbp" />
+		<Project filename="switchmeta/switchmeta.cbp" />
+		<Project filename="loop/loop.cbp" />
+		<Project filename="loopmeta/loopmeta.cbp" />
+		<Project filename="fibonaccimeta/fibonaccimeta.cbp" />
+		<Project filename="isprimemeta/isprimemeta.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

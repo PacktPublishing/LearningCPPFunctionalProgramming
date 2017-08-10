@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="array/array.cbp" />
+		<Project filename="auto/auto.cbp" />
+		<Project filename="decltype/decltype.cbp" />
+		<Project filename="begin_end/begin_end.cbp" />
+		<Project filename="range_based_for_loop/range_based_for_loop.cbp" />
+		<Project filename="vector/vector.cbp" />
+		<Project filename="sort/sort.cbp" />
+		<Project filename="find/find.cbp" />
+		<Project filename="for_each/for_each.cbp" />
+		<Project filename="lambda_tiny_func/lambda_tiny_func.cbp" />
+		<Project filename="lambda_multiline_func/lambda_multiline_func.cbp" />
+		<Project filename="lambda_returning_value/lambda_returning_value.cbp" />
+		<Project filename="lambda_capturing_by_value/lambda_capturing_by_value.cbp" />
+		<Project filename="lambda_capturing_by_value_mutable/lambda_capturing_by_value_mutable.cbp" />
+		<Project filename="lambda_capturing_by_reference/lambda_capturing_by_reference.cbp" />
+		<Project filename="lambda_initialization_captures/lambda_initialization_captures.cbp" />
+		<Project filename="lambda_expression_generic/lambda_expression_generic.cbp" />
+		<Project filename="unique_ptr_1/unique_ptr_1.cbp" />
+		<Project filename="unique_ptr_2/unique_ptr_2.cbp" />
+		<Project filename="unique_ptr_3/unique_ptr_3.cbp" />
+		<Project filename="shared_ptr_1/shared_ptr_1.cbp" />
+		<Project filename="weak_ptr_1/weak_ptr_1.cbp" />
+		<Project filename="tuples_1/tuples_1.cbp" />
+		<Project filename="tuples_2/tuples_2.cbp" />
+		<Project filename="tuples_3/tuples_3.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

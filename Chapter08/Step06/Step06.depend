@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1501063715 source:e:\authoring\functional c++\a8 chapter eight - review code\step06\customer.cpp
+	<algorithm>
+	"Customer.h"
+
+1501061609 e:\authoring\functional c++\a8 chapter eight - review code\step06\customer.h
+	<string>
+	<vector>
+	<memory>
+
+1501063881 source:e:\authoring\functional c++\a8 chapter eight - review code\step06\main.cpp
+	<iostream>
+	<functional>
+	<chrono>
+	"Customer.h"
+

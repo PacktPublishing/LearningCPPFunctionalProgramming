@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1499328832 source:e:\authoring\functional c++\a3 chapter three - review code\immutable_3\immutable_3.cpp
+	<iostream>
+	"../immutableemployee/immutableemployee.h"
+
+1499417756 e:\authoring\functional c++\a3 chapter three - review code\immutableemployee\immutableemployee.h
+	<string>
+
+1499417718 source:e:\authoring\functional c++\a3 chapter three - review code\immutableemployee\immutableemployee.cpp
+	"immutableemployee.h"
+

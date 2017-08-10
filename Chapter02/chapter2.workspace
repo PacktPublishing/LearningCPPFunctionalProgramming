@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="first_class_1/first_class_1.cbp" />
+		<Project filename="first_class_2/first_class_2.cbp" />
+		<Project filename="first_class_3/first_class_3.cbp" />
+		<Project filename="first_class_4/first_class_4.cbp" />
+		<Project filename="transform_1/transform_1.cbp" />
+		<Project filename="filter_1/filter_1.cbp" />
+		<Project filename="filter_2/filter_2.cbp" />
+		<Project filename="fold_1/fold_1.cbp" />
+		<Project filename="fold_2/fold_2.cbp" />
+		<Project filename="pure_function_1/pure_function_1.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

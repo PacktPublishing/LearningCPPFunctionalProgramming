@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="Step01/Step01.cbp" />
+		<Project filename="Step02/Step02.cbp" />
+		<Project filename="Step03/Step03.cbp" />
+		<Project filename="Step04/Step04.cbp" />
+		<Project filename="Step05/Step05.cbp" />
+		<Project filename="Step06/Step06.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

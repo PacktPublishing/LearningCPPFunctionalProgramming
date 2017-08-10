@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="mutable_1/mutable_1.cbp" />
+		<Project filename="immutable_1/immutable_1.cbp" />
+		<Project filename="immutable_2/immutable_2.cbp" />
+		<Project filename="mutable_2/mutable_2.cbp" />
+		<Project filename="mutable_2a/mutable_2a.cbp" />
+		<Project filename="const/const.cbp" />
+		<Project filename="const_error/const_error.cbp" />
+		<Project filename="first_class_pure_immutable/first_class_pure_immutable.cbp" />
+		<Project filename="mutable_3/mutable_3.cbp" />
+		<Project filename="immutable_3/immutable_3.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

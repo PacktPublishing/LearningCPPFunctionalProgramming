@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="strict/strict.cbp" />
+		<Project filename="non_strict/non_strict.cbp" />
+		<Project filename="delaying/delaying.cbp" />
+		<Project filename="delaying_non_pure/delaying_non_pure.cbp" />
+		<Project filename="delaying_non_pure_memoization/delaying_non_pure_memoization.cbp" />
+		<Project filename="not_optimize_code/not_optimize_code.cbp" />
+		<Project filename="optimizing_memoization/optimizing_memoization.cbp" />
+		<Project filename="prime/prime.cbp" />
+		<Project filename="prime_lazy/prime_lazy.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

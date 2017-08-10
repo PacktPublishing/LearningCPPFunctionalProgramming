@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1499749122 source:e:\authoring\functional c++\a4 chapter four - review code\labyrinth\labyrinth.cpp
+	<iostream>
+	<vector>
+	<unistd.h>
+
