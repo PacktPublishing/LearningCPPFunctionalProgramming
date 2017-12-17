@@ -36,5 +36,3 @@ To walk through this book and successfully compile all the source code examples,
 
 * [Beginning C++ Programming](https://www.packtpub.com/application-development/beginning-c-programming?utm_source=github&utm_medium=repository&utm_campaign=9781787124943)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
